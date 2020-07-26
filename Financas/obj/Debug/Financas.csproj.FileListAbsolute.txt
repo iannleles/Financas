@@ -1,0 +1,106 @@
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\obj\Debug\Financas.csprojResolveAssemblyReference.cache
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\ApplicationInsights.config
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\roslyn\csc.exe
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\roslyn\System.Collections.Immutable.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\roslyn\vbc.exe
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\roslyn\VBCSCompiler.exe
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\roslyn\VBCSCompiler.exe.config
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Financas.dll.config
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Financas.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Financas.pdb
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\EntityFramework.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\EntityFramework.SqlServer.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Microsoft.AI.Web.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Microsoft.AI.WindowsServer.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Microsoft.ApplicationInsights.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Microsoft.Web.Infrastructure.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\System.Web.Helpers.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\System.Web.Mvc.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\System.Web.Razor.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\System.Web.Webpages.Deployment.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\System.Web.Webpages.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\System.Web.Webpages.Razor.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\EntityFramework.xml
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\EntityFramework.SqlServer.xml
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Microsoft.AI.Web.xml
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Microsoft.AI.WindowsServer.xml
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Microsoft.ApplicationInsights.xml
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\System.Web.Razor.xml
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\System.Web.Webpages.xml
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\System.Web.Webpages.Deployment.xml
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\System.Web.Webpages.Razor.xml
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\System.Web.Helpers.xml
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\bin\System.Web.Mvc.xml
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\obj\Debug\Financas.dll
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\obj\Debug\Financas.pdb
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\obj\Debug\Financas.Migrations.TabelasIniciais.resources
+c:\users\caelum\documents\visual studio 2015\Projects\Financas\Financas\obj\Debug\Financas.csproj.GenerateResource.Cache
+C:\Users\iannl\Downloads\Financas\Financas\bin\ApplicationInsights.config
+C:\Users\iannl\Downloads\Financas\Financas\bin\roslyn\csc.exe
+C:\Users\iannl\Downloads\Financas\Financas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iannl\Downloads\Financas\Financas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iannl\Downloads\Financas\Financas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\roslyn\vbc.exe
+C:\Users\iannl\Downloads\Financas\Financas\bin\roslyn\VBCSCompiler.exe
+C:\Users\iannl\Downloads\Financas\Financas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iannl\Downloads\Financas\Financas\bin\Financas.dll.config
+C:\Users\iannl\Downloads\Financas\Financas\bin\Financas.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\Financas.pdb
+C:\Users\iannl\Downloads\Financas\Financas\bin\EntityFramework.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\EntityFramework.SqlServer.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\Microsoft.AI.Web.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\System.Web.Helpers.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\System.Web.Mvc.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\System.Web.Razor.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\System.Web.Webpages.Deployment.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\System.Web.Webpages.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\System.Web.Webpages.Razor.dll
+C:\Users\iannl\Downloads\Financas\Financas\bin\EntityFramework.xml
+C:\Users\iannl\Downloads\Financas\Financas\bin\EntityFramework.SqlServer.xml
+C:\Users\iannl\Downloads\Financas\Financas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\iannl\Downloads\Financas\Financas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\iannl\Downloads\Financas\Financas\bin\Microsoft.AI.Web.xml
+C:\Users\iannl\Downloads\Financas\Financas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\iannl\Downloads\Financas\Financas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\iannl\Downloads\Financas\Financas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iannl\Downloads\Financas\Financas\bin\System.Web.Razor.xml
+C:\Users\iannl\Downloads\Financas\Financas\bin\System.Web.Webpages.xml
+C:\Users\iannl\Downloads\Financas\Financas\bin\System.Web.Webpages.Deployment.xml
+C:\Users\iannl\Downloads\Financas\Financas\bin\System.Web.Webpages.Razor.xml
+C:\Users\iannl\Downloads\Financas\Financas\bin\System.Web.Helpers.xml
+C:\Users\iannl\Downloads\Financas\Financas\bin\System.Web.Mvc.xml
+C:\Users\iannl\Downloads\Financas\Financas\obj\Debug\Financas.csprojAssemblyReference.cache
+C:\Users\iannl\Downloads\Financas\Financas\obj\Debug\Financas.Migrations.TabelasIniciais.resources
+C:\Users\iannl\Downloads\Financas\Financas\obj\Debug\Financas.csproj.GenerateResource.cache
+C:\Users\iannl\Downloads\Financas\Financas\obj\Debug\Financas.csproj.CoreCompileInputs.cache
+C:\Users\iannl\Downloads\Financas\Financas\obj\Debug\Financas.csproj.CopyComplete
+C:\Users\iannl\Downloads\Financas\Financas\obj\Debug\Financas.dll
+C:\Users\iannl\Downloads\Financas\Financas\obj\Debug\Financas.pdb
