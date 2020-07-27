@@ -165,3 +165,7 @@ C:\Users\iannl\OneDrive\Documentos\Curso Alura de .Net - Iann\Financas\Financas\
 C:\Users\iannl\OneDrive\Documentos\Curso Alura de .Net - Iann\Financas\Financas\Financas\bin\Ninject.xml
 C:\Users\iannl\OneDrive\Documentos\Curso Alura de .Net - Iann\Financas\Financas\Financas\bin\Ninject.Web.Common.xml
 C:\Users\iannl\OneDrive\Documentos\Curso Alura de .Net - Iann\Financas\Financas\Financas\bin\Ninject.Web.Mvc.xml
+C:\Users\iannl\OneDrive\Documentos\Curso Alura de .Net - Iann\Financas\Financas\Financas\bin\WebMatrix.Data.dll
+C:\Users\iannl\OneDrive\Documentos\Curso Alura de .Net - Iann\Financas\Financas\Financas\bin\WebMatrix.WebData.dll
+C:\Users\iannl\OneDrive\Documentos\Curso Alura de .Net - Iann\Financas\Financas\Financas\bin\WebMatrix.WebData.xml
+C:\Users\iannl\OneDrive\Documentos\Curso Alura de .Net - Iann\Financas\Financas\Financas\bin\WebMatrix.Data.xml
